@@ -10,7 +10,7 @@ body {
 
 #header {
 
-    width: 1600px;
+    width: 1280px;
     height: 50px;
     background: white;
     align-self: center;
@@ -21,4 +21,31 @@ body {
 #store {
 
     float:left;
+    padding: 15px;  }
+
+#products {
+    float: left;
+    padding: 15px;  }
+
+#support {
+    float: left;
+    padding: 15px;
+}
+
+#sign {
+    float: right;
+    padding: 15px;
+    margin: 0 50px 0 0;
+}
+
+#cart {
+    float: right;
+    padding: 15px;
+}
+
+#text {
+    float: left;
+    padding: 0px 0 100px 10px;
+
+
 }
