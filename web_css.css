@@ -87,8 +87,13 @@ body {
     width: 312.5px;
     height: 250px;
     position: relative;
-    bottom: 21.5px;
-    ;
+    bottom: 21.5px;  }
 
+#sub-mid-2 {
+    background: green;
+    width: 312.5px;
+    height: 250px;
+    position: relative;
+    left: 312.5px;
 
 }
