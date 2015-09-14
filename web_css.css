@@ -52,7 +52,7 @@ body {
 
     background: gray;
     width: 1250px;
-    height: 500px;
+    height: 345px;
     position: relative;
     top: 50px;
 }
@@ -80,5 +80,15 @@ body {
     color: white;
     font-size: 25px;
     margin: auto;
+}
+
+#sub-mid-1 {
+    background: lightseagreen;
+    width: 312.5px;
+    height: 250px;
+    position: relative;
+    bottom: 21.5px;
+    ;
+
 
 }
