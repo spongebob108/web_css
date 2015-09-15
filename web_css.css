@@ -90,10 +90,41 @@ body {
     bottom: 21.5px;  }
 
 #sub-mid-2 {
-    background: green;
+    background:black ;
     width: 312.5px;
     height: 250px;
     position: relative;
     left: 312.5px;
+    position: relative;
+    bottom: 271px;
+}
+
+#chara-1 {
+    color: antiquewhite;
+}
+
+#chara-2 {
+    color: antiquewhite;
+}
+
+#sub-mid-3 {
+    background: cadetblue;
+    width: 312.5px;
+    height: 250px;
+    position: relative;
+    bottom: 521px;
+    left: 625px;
+}
+
+#chara-3 {
+    color: antiquewhite;  }
+
+#sub-mid-4 {
+    background: deepskyblue;
+    width: 312.5px;
+    height: 250px;
+    position: relative;
+    bottom: 521px;
+    left: 625px;
 
 }
