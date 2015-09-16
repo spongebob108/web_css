@@ -120,11 +120,46 @@ body {
     color: antiquewhite;  }
 
 #sub-mid-4 {
-    background: deepskyblue;
+    background: lightseagreen           ;
     width: 312.5px;
     height: 250px;
     position: relative;
-    bottom: 521px;
-    left: 625px;
+    bottom: 771px;
+    left: 937.5px;
 
+}
+
+#chara-4 {
+    color: antiquewhite;  }
+
+#mid-3 {
+
+    width: 1250px;
+    height: 50px;
+    background:grey;
+    position: relative;
+    bottom: 21px;
+    top: 110px;
+    color: white;
+    font-size: 25px;
+    margin: auto;
+}
+
+#body-2 {
+
+    width: 1250px;
+    height: 250px;
+    background: yellow;
+    position: relative;
+    top: 110px;
+    left: 15px;
+}
+
+#sub-mid-1-w {
+
+    background: lightseagreen           ;
+    width: 312.5px;
+    height: 250px;
+    position: relative;
+    bottom: 21px;
 }
