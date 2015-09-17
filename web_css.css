@@ -163,3 +163,52 @@ body {
     position: relative;
     bottom: 21px;
 }
+
+#chara-5 {
+
+    background: black;
+    color: antiquewhite;
+    position: relative;
+    bottom: 70px;
+
+    moz-opacity:0.6;
+    opacity: 0.6;
+}
+
+#sub-mid-2-w {
+    position: relative;
+    left: 312.5px;
+    bottom: 317px;
+
+}
+
+#chara-6 {
+
+    width: 312.5px;
+    height: 65px;
+    background:indigo;
+    color: antiquewhite;
+    position: relative;
+    bottom: 70px;
+    }
+
+#sub-mid-3-w {
+    position: relative;
+    left: 625px;
+    bottom: 271px;
+}
+
+#cha-7 {
+
+    width: 312.5px;
+    height: 67px;
+    background: teal;
+    position: relative;
+    bottom: 4px;  }
+
+#sub-mid-4-w {
+    position: relative;
+    left: 312.3px;
+    bottom: 255px;
+
+}
